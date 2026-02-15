@@ -22,6 +22,5 @@ This project unifies Facebook, Google, and TikTok advertising data into a standa
 
 ## SQL Transformation Script
 
- See [`unified_model.sql`](./sql/unified_model.sql)
- 
- See [`platform_performance.sql`](./sql/platform_performance.sql)
+See [`unified_model.sql`](./unified_model.sql)  
+See [`platform_performance.sql`](./platform_performance.sql)
