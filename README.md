@@ -1,4 +1,4 @@
-# Multi-Channel-Marketing-Analysis
+# Multi Channel Marketing Analysis
 
 ## Tools Used
 
